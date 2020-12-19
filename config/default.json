@@ -1,0 +1,4 @@
+{
+	"mongoURI": "mongodb+srv://binbello:WgD0tePsarUWNeN2@mern-db.p9smr.mongodb.net/MERN-DB?retryWrites=true&w=majority",
+	"jwtSecret": "myJWTLDCsecret"
+}
